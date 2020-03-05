@@ -1,0 +1,19 @@
+1. Antiment/Antipolice (Трекер):
+	- Arduino
+	- Гироскоп
+	- GSM-модуль (обеспечивает связь по GPRS):
+		Tutorial https://randomnerdtutorials.com/sim900-gsm-gprs-shield-arduino/
+		 Питание https://roboshop.spb.ru/li-pol-1001003-3000mah-orbita
+
+
+
+
+2. Матрицы (Videowall):
+	- http://www.toptechboy.com/tutorial/python-with-arduino-lesson-16-simple-client-server-configuration-over-ethernet/
+	- Выводит строки(простой текст) / Глубинный видеоряд
+	- RGB-matrix - для управления матрицой 16*16 
+		Manual 
+			https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/connecting-with-jumper-wires
+			https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/overview
+	- на сами матрицы нужен отдельный источник питания
+
